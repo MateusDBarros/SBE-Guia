@@ -36,14 +36,7 @@ As naves são representadas por uma `struct` com os seguintes atributos:
 
 4. Siga as instruções no menu para escolher sua nave e iniciar a batalha.
 
-## Contribuição
+## Contato
 
-1. Faça um fork do projeto.
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`).
-3. Faça as modificações desejadas e commit (`git commit -am 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT.
+- [LinkedIn](https://www.linkedin.com/in/mateus-barros13
+- Email: mb685212@gmail.com
