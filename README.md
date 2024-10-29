@@ -39,4 +39,4 @@ As naves são representadas por uma `struct` com os seguintes atributos:
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-barros13)
-- Email: mb685212@gmail.com
+- [Email](mb685212@gmail.com)
