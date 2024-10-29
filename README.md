@@ -1,4 +1,4 @@
-# Simulação de Batalhas Espaciais
+# Simulador de Batalhas Espaciais
 
 Este projeto é um Simulador de Batalhas Espaciais em C. Os jogadores podem escolher uma nave e lutar contra o computador.
 
