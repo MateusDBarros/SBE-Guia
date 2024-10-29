@@ -37,6 +37,6 @@ As naves são representadas por uma `struct` com os seguintes atributos:
 4. Siga as instruções no menu para escolher sua nave e iniciar a batalha.
 
 ## Contato
-
+Para mais informações, entre em contato via
 - [LinkedIn](https://www.linkedin.com/in/mateus-barros13)
 - [Email](mb685212@gmail.com)
